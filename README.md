@@ -50,13 +50,23 @@ This split is the actual engineering decision worth explaining in a portfolio ca
 
 ## Findings
 
-Notable results from the seed run:
+The first version of this report named 3 brands (Baby Phat, FUBU, Ami Colé) as the headline cases. The seed dataset actually covers all 11 brands from Nov 2025 to Jun 2026, and the full run tells a sharper story:
 
-| Brand | Result | Read |
+| Brand | % Change | Read |
 |---|---|---|
 | Baby Phat | +89.4% | Strongest sustained comeback |
+| Karl Kani | +5.0% | Flat, mild upward drift |
+| Brother Vellies | +1.8% | Essentially flat |
+| Cross Colours | -1.5% | Essentially flat |
+| Telfar | -24.8% | Notable pullback for a brand of its scale |
+| Rocawear | -43.6% | Clear decline |
+| Phat Farm | -45.2% | Clear decline |
 | FUBU | -91.5% | Hype vs. demand cautionary tale, matching the overbuying/no-evolution pattern from the original impact analysis |
-| Ami Colé | Sustained decline | Visible in the data ahead of the brand's public closure |
+| Sean John | -95.7% | Near-total collapse |
+| Ami Colé | -99.5% | Traffic collapse visible in the data ahead of the brand's public closure |
+| Freddie Estelle | -100.0% | Traffic went to zero by the end of the window |
+
+![Traffic change by brand, Nov 2025 to Jun 2026](./graph.png)
 
 ## Making it fully live
 
